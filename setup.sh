@@ -1,14 +1,15 @@
-git clone https://github.com/NacreousDawn596/WiFind
 cd 
 clear
 echo "downloading dependencies..."
 sleep 1
 clear
-sudo apt-get install python3 nmap figlet
+sudo apt-get install python3 nmap figlet git
 clear
-sudo pacman -S install python3 nmap figlet
+sudo pacman -S install python3 nmap figlet git
 clear
-sudo dnf install python3 nmap figlet
+sudo dnf install python3 nmap figlet git
+clear
+git clone https://github.com/NacreousDawn596/WiFind
 clear
 echo "setting files..."
 sleep 1
